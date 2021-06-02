@@ -5,7 +5,7 @@ const About = () => {
         <section className='section about-section'>
             <h1 className='section-title'>About Us</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In provident vitae ipsum molestiae exercitationem aperiam. Ipsum necessitatibus assumenda molestiae, quisquam quam doloremque vitae deserunt dolor cupiditate voluptatem esse, officiis illum.
+                This a cocktail website so you can learn how to make them. All credits to the youtube video I watched to make this website :) 
             </p>
         </section>
     )
